@@ -26,7 +26,7 @@
    <uses-permission android:name="android.permission.AUDIO_CAPTURE" /> -->
    <!-- Add more permission entries as needed -->
    <application
-        android:label="SmartViewAi"
+        android:label="Aadnan Rahaman"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher"
         android:usesCleartextTraffic="true"
